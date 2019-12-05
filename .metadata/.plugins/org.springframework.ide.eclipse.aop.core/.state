@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="TechTalentBlog"/>
+<aop-project name="SubscriberList"/>
+<aop-project name="EmailList"/>
+<aop-project name="TechTalentTwitter"/>
+</aop-reference-model>
